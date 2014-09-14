@@ -1,0 +1,13 @@
+名字  		name			vchar
+性别		gender  		int	1,-1/男,女
+学院  		college			vchar
+年级		grade			vchar
+手机号		mobile			number
+邮箱		email			vchar
+
+自我介绍 	introduce		text
+项目经历 	experience（选填）	text
+
+产品与开发 	product_or_dev		int
+设计与开发	art_or_code		int
+前端后端	dufront_or_back		int
